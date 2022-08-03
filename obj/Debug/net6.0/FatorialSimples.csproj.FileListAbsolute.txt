@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\bin\Debug\net6.0\FatorialSimples.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\bin\Debug\net6.0\FatorialSimples.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\bin\Debug\net6.0\FatorialSimples.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\bin\Debug\net6.0\FatorialSimples.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\bin\Debug\net6.0\FatorialSimples.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\refint\FatorialSimples.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\FatorialSimples.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FatorialSimples\obj\Debug\net6.0\ref\FatorialSimples.dll
